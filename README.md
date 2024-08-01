@@ -1,2 +1,2 @@
-# It is a simple GUI based temperature convertor that converts temperature from celcius to farenheit.
+# It is a simple GUI based temperature converter that converts temperature from celcius to fahrenheit.
  
